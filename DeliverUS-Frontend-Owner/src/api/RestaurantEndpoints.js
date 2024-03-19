@@ -1,4 +1,3 @@
-
 function getAll () {
   return restaurantsMock
 }
